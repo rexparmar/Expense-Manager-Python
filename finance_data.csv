@@ -1,0 +1,23 @@
+date,amount,category,description
+20-07-2024,100,income,salary
+20-07-2024,100,income,salary
+01-09-2025,100.0,Income,Happy money
+01-09-2025,250.0,Expense,
+01-09-2025,100.0,Income,Happy money
+01-09-2025,250.0,Expense,Grocery shopping
+05-09-2025,75.5,Expense,Restaurant dinner
+10-09-2025,500.0,Income,Freelance project
+12-09-2025,60.0,Expense,Gas refill
+15-09-2025,1200.0,Income,Monthly salary
+18-09-2025,45.0,Expense,Movie night
+20-09-2025,300.0,Expense,Electronics purchase
+25-09-2025,90.0,Expense,Utilities bill
+28-09-2025,200.0,Income,Gift received
+01-10-2025,150.0,Expense,Clothes shopping
+05-10-2025,85.0,Expense,Supermarket
+08-10-2025,600.0,Income,Side hustle payment
+12-10-2025,40.0,Expense,Public transport
+15-10-2025,1300.0,Income,Monthly salary
+20-10-2025,70.0,Expense,Mobile recharge
+22-10-2025,55.0,Expense,Coffee shop
+25-10-2025,500.0,Expense,Rent contribution
